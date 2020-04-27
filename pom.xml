@@ -44,6 +44,7 @@
                 <executions>
                     <execution>
                         <id>checking</id>
+                        <phase>verify</phase>
                         <goals>
                             <goal>check</goal>
                         </goals>
